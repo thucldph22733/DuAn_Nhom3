@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="WebsiteBanQuanAo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>WebsiteBanQuanAo</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="WebsiteBanQuanAo-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="WebsiteBanQuanAo:war exploded" />
+    </root>
+  </artifact>
+</component>
